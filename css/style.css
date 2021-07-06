@@ -89,11 +89,7 @@ section.header {
 }
 
 /* ABOUT SECTION */
-section.about {
-  background-image: url(/images/7.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+
 section.about .about-content {
   justify-content: center;
   align-items: center;
